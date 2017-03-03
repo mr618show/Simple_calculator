@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-![alt tag](file://localhost/Users/gezimao/Downloads/Tippy_rmao.gif)
+![alt tag](https://github.com/mr618show/Simple_calculator/blob/master/Tippy_rmao.gif)
 ## Notes
 
 Describe any challenges encountered while building the app.
