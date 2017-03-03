@@ -14,6 +14,7 @@
 		A599D1BF1E67787700722E9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A599D1BD1E67787700722E9D /* LaunchScreen.storyboard */; };
 		A599D1CA1E67787700722E9D /* TippyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A599D1C91E67787700722E9D /* TippyTests.swift */; };
 		A599D1D51E67787700722E9D /* TippyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A599D1D41E67787700722E9D /* TippyUITests.swift */; };
+		A599D1E71E69376400722E9D /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A599D1E61E69376400722E9D /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A599D1D01E67787700722E9D /* TippyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TippyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A599D1D41E67787700722E9D /* TippyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TippyUITests.swift; sourceTree = "<group>"; };
 		A599D1D61E67787700722E9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A599D1E61E69376400722E9D /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A599D1B41E67787700722E9D /* AppDelegate.swift */,
 				A599D1B61E67787700722E9D /* ViewController.swift */,
 				A599D1B81E67787700722E9D /* Main.storyboard */,
+				A599D1E61E69376400722E9D /* SettingsViewController.swift */,
 				A599D1BB1E67787700722E9D /* Assets.xcassets */,
 				A599D1BD1E67787700722E9D /* LaunchScreen.storyboard */,
 				A599D1C01E67787700722E9D /* Info.plist */,
@@ -193,6 +196,7 @@
 				TargetAttributes = {
 					A599D1B01E67787700722E9D = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = BDVS636UPQ;
 						ProvisioningStyle = Automatic;
 					};
 					A599D1C41E67787700722E9D = {
@@ -261,6 +265,7 @@
 			files = (
 				A599D1B71E67787700722E9D /* ViewController.swift in Sources */,
 				A599D1B51E67787700722E9D /* AppDelegate.swift in Sources */,
+				A599D1E71E69376400722E9D /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -410,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BDVS636UPQ;
 				INFOPLIST_FILE = Tippy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = rmao.Tippy;
@@ -422,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BDVS636UPQ;
 				INFOPLIST_FILE = Tippy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = rmao.Tippy;
