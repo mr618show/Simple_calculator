@@ -1,5 +1,5 @@
 # Simple_calculator
-A simple calculator built with Xcode
+A simple tip calculator built with Xcode
 # Pre-work - *Name of App Here*
 
 **Tippy** is a tip calculator application for iOS.
@@ -26,8 +26,9 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 * [X] Updated UI layouts, added background image
-* [X] Added bill divider for multiple people split the bill
-* [X] Added stepper feature at main screen which allows users to customize the current tip as well as adjust the party size
+* [X] Customized settings button
+* [X] Added bill divider feature for multiple people splitting the bill
+* [X] Added stepper feature at the main screen which allows users to customize the current tip as well as adjust the party size
 * [X] Added a switch in the settings menu to turn on the feature of rounding the total bill
 
 ## Video Walkthrough 
