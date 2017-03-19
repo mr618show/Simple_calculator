@@ -6,7 +6,7 @@ A simple calculator built with Xcode
 
 Submitted by: **Rui Mao**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 I am hobbyist app developer. Previously I have used Unity to build game apps that worked on iOS, Windows and Android.
@@ -25,6 +25,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+* [X] Updated UI layouts, added background image
+* [X] Added bill divider for multiple people split the bill
+* [X] Added stepper feature at main screen which allows users to customize the current tip as well as adjust the party size
+* [X] Added a switch in the settings menu to turn on the feature of rounding the total bill
 
 ## Video Walkthrough 
 
@@ -32,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [quickTime Player].
 ![alt tag](https://github.com/mr618show/Simple_calculator/blob/master/Tippy_rmao.gif)
 ## Notes
 
