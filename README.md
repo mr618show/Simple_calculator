@@ -1,7 +1,6 @@
-# Simple_calculator
-A simple tip calculator built with Xcode
-# Pre-work - *Name of App Here*
 
+
+# Pre-work - *Tippy*
 **Tippy** is a tip calculator application for iOS.
 
 Submitted by: **Rui Mao**
